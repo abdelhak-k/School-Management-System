@@ -5,7 +5,6 @@
 #include "grade.h"
 #include <QMap>
 #include <QVector>
-#include "academicyear.h"
 
 class Student:public Person //we inhereit the Person data members
 {

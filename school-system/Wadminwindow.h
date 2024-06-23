@@ -79,6 +79,17 @@ public:
     static void loadAssingedCourses(const QString &school_domain,const QString &teacherID,QMap<QString,QVector<QString>> &profCourses);
     static void saveAssignedCourses(const QString &school_domain, const QMap<QString, QVector<QString>> &profCourses);
 
+
+    ///////////////////////////////////static functions will be used all over the other classes//////////
+    /// \brief OPEN_FILE_FOR_X
+    /// will open the file for the mode X if somthing went wrong it show a message indicating that there is a problem
+    static bool OPEN_FILE_FOR_READING(QFile &file,QWidget *cur);
+    static bool OPEN_FILE_FOR_APPENDING(QFile &file,QWidget *cur);
+    static bool OPEN_FILE_FOR_WRITING(QFile &file, QWidget *cur);
+    static bool OPEN_FILE_FOR_READWRITE(QFile &file, QWidget *cur);
+
+
+
 private slots:
 
     void on_add_student_button_clicked();

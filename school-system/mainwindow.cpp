@@ -39,7 +39,7 @@ void MainWindow::on_login_button_clicked() //The login button
         admin =new AdminWindow(this,log.get_school_domain(),log.get_max_year()); //create the Admin window, with the domain logged in with
         admin->show();
     }
-
+    delete admin;
 
 }
 
