@@ -1,6 +1,6 @@
 # School Management System
 
-![Untitled](https://github.com/abdelhak-k/School-Management-System/assets/152446357/a72bd411-e21c-4df9-9f35-dc0ab3995cfd)
+![Untitled](https://github.com/abdelhak-k/School-Management-System/assets/152446357/2556c692-e366-4767-a1a0-0ba4e43dfef7)
 Welcome to the School Management System project, This application is designed to manage various aspects of schools, including student records/informations, teachers information, courses, grades, and attendance ..
 
 
@@ -13,7 +13,7 @@ Welcome to the School Management System project, This application is designed to
 
 2- Enter your username and password.
     
-![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/004bd240-aa8a-4e2c-b99b-175d50c33c19)
+![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/904fc51b-78e5-4850-acaf-5d08d9e37c14)
 
 3- Click the "Login" button.
 
@@ -27,11 +27,11 @@ Welcome to the School Management System project, This application is designed to
 
 1-Click on "Create new Account" on the sign in/up page.
 
-![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/547e9383-80a6-490b-bc39-9fbe8fa1d4db)
+![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/082e20da-4240-4d10-b341-ed6c92439b98)
 
 2-Fill out the registration form with required information:
 
-   ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/87c6b269-75c1-43bf-bfe7-931af7e6b87f)
+   ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/f9f5d685-8d95-4ab6-aaf6-8273de5545c9)
 
 3-Submit the form to create your account.
 
@@ -40,19 +40,21 @@ Welcome to the School Management System project, This application is designed to
   - Add, edit, and delete student records.
   - View and manage student grades and attendance.
 
-    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/046d45d9-5c23-46a0-bd6c-cbcda7807ebb)
+    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/0b8acd8f-dfe2-43d0-bbd7-ea5c0923faba)
+
 
 **Teacher Management:**
   - Add, edit, and remove teacher profiles.
   - Assign courses to teachers.
 
-    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/630f52b0-0a05-4544-914f-083681309e8c)
+    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/685ee1a8-7472-45b6-969c-6c1e06521907)
+
 
 **Course Management:**
   - Create, update, and delete course information.
   - Assign courses to teachers.
 
-    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/6884ab6f-0855-48ad-9990-7bcbfdb8b4cd)
+    ![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/0884af26-fc3b-45b3-ac85-51d28a3ff8e1)
 
 
 ## Usage
@@ -65,17 +67,18 @@ Welcome to the School Management System project, This application is designed to
    - Double-click `school-system.exe` to launch the application.
 
 3. **Login/Create new account:**
-![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/c0c35f3a-7bae-41bf-be10-941d57873c7e)
+   
+![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/0b897af5-58ae-4ede-8dc3-f137bff0183b)
 
 
 
-4. **Navigation:**
+5. **Navigation:**
    - Use the buttons and menus to navigate between different management functions (students, teachers, courses).
 
-5. **Data Management:**
+6. **Data Management:**
    - Perform CRUD operations (Create, Read, Update, Delete) on student, teacher, and course data.
 
-6. **File Management:**
+7. **File Management:**
    - Ensure the `../data/` directory has read and write permissions for proper functioning of the application.
 
 ## Troubleshooting
