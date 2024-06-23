@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../data/passwords.txt</file>
+        <file>../data/usernames.txt</file>
+        <file>../data/domain.txt</file>
+    </qresource>
+</RCC>

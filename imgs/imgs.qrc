@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>back.jfif</file>
+        <file>login.png</file>
+    </qresource>
+</RCC>

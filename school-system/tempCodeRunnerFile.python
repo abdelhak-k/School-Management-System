@@ -1,0 +1,12 @@
+
+
+file = open("student.txt", 'r')
+lines=file.readlines()
+
+for line in sorted(lines):
+    print(line.rstrip())
+
+
+
+
+file.close()
