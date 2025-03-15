@@ -1,6 +1,5 @@
 # School Management System
 
-![Untitled](https://github.com/abdelhak-k/School-Management-System/assets/152446357/2556c692-e366-4767-a1a0-0ba4e43dfef7)
 Welcome to the School Management System project, This application is designed to manage various aspects of schools, including student records/informations, teachers information, courses, grades, and attendance ..
 
 
