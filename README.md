@@ -65,11 +65,7 @@ Welcome to the School Management System project, This application is designed to
    - Locate the downloaded `school-system.exe` file.
    - Double-click `school-system.exe` to launch the application.
 
-3. **Login/Create new account:**
-   
-![image](https://github.com/abdelhak-k/School-Management-System/assets/152446357/0b897af5-58ae-4ede-8dc3-f137bff0183b)
-
-
+3. **Login/Create new account**
 
 5. **Navigation:**
    - Use the buttons and menus to navigate between different management functions (students, teachers, courses).
